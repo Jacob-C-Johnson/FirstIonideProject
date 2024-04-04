@@ -28,3 +28,5 @@ C:\Users\jacob\source1\fshaptutorial\FirstIonideProject\obj\Debug\net8.0\FirstIo
 C:\Users\jacob\source1\fshaptutorial\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.genruntimeconfig.cache
 C:\Users\jacob\source1\fshaptutorial\FirstIonideProject\obj\Debug\net8.0\ref\FirstIonideProject.dll
 C:\Users\jacob\source1\fshaptutorial\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.sourcelink.json
+C:\Users\jacob\source1\fshaptutorial\FirstIonideProject\bin\Debug\net8.0\Suave.dll
+C:\Users\jacob\source1\fshaptutorial\FirstIonideProject\bin\Debug\net8.0\Newtonsoft.Json.dll
