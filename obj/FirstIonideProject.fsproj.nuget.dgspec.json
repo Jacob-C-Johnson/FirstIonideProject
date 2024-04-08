@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source1\\fshaptutorial\\FirstIonideProject\\FirstIonideProject.fsproj": {}
+    "C:\\Users\\carso\\source1\\iodine\\FirstIonideProject\\FirstIonideProject.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source1\\fshaptutorial\\FirstIonideProject\\FirstIonideProject.fsproj": {
+    "C:\\Users\\carso\\source1\\iodine\\FirstIonideProject\\FirstIonideProject.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source1\\fshaptutorial\\FirstIonideProject\\FirstIonideProject.fsproj",
+        "projectUniqueName": "C:\\Users\\carso\\source1\\iodine\\FirstIonideProject\\FirstIonideProject.fsproj",
         "projectName": "FirstIonideProject",
-        "projectPath": "C:\\Users\\jacob\\source1\\fshaptutorial\\FirstIonideProject\\FirstIonideProject.fsproj",
-        "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source1\\fshaptutorial\\FirstIonideProject\\obj\\",
+        "projectPath": "C:\\Users\\carso\\source1\\iodine\\FirstIonideProject\\FirstIonideProject.fsproj",
+        "packagesPath": "C:\\Users\\carso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carso\\source1\\iodine\\FirstIonideProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\carso\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\8.0.100\\FSharp\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\8.0.101\\FSharp\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +37,7 @@
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[8.0.100, )",
+              "version": "[8.0.101, )",
               "generatePathProperty": true
             },
             "Newtonsoft.Json": {
@@ -73,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
